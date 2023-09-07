@@ -1,0 +1,25 @@
+.banner{
+    height: 250px;
+}
+
+.banner__contents{
+    color: white;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+
+.banner__button{
+    border: none;
+    border-radius: 1px;
+    opacity: 0.7;
+    margin-left: 12px;
+    width: 4rem;
+    height: 1.5rem;
+    margin-top: 17px;
+    cursor: pointer;
+}
+
+.banner__button :hover{
+    color: white;
+    background-color: black;
+}
